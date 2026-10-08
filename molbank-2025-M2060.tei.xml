@@ -1,0 +1,1748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Allyl Syringate</title>
+				<funder ref="#_EejsGnt">
+					<orgName type="full">National Science, Research and Innovation Fund</orgName>
+					<orgName type="abbreviated">NSRF</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">King Mongkut&apos;s Institute of Technology Ladkrabang</orgName>
+					<orgName type="abbreviated">KMITL</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>MDPI AG</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2025-09-15">15 September 2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct status="consolidated" source="crossref">
+					<analytic>
+						<author>
+							<persName><forename type="first">Naruedech</forename><surname>Thimpa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Chemistry</orgName>
+								<orgName type="department" key="dep2">School of Science</orgName>
+								<orgName type="institution">King Mongkut&apos;s Institute of Technology Ladkrabang</orgName>
+								<address>
+									<postCode>10520</postCode>
+									<settlement>Bangkok</settlement>
+									<country>Thailand;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Science</orgName>
+								<orgName type="laboratory">Advanced Pure and Applied Chemistry Research Unit (APAC)</orgName>
+								<orgName type="institution">King Mongkut&apos;s Institute of Technology Ladkrabang</orgName>
+								<address>
+									<postCode>10520</postCode>
+									<settlement>Bangkok</settlement>
+									<country key="TH">Thailand</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Suriyaphong</forename><surname>Poprom</surname></persName>
+							<idno type="ORCID">0009-0002-3518-8632</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Chemistry</orgName>
+								<orgName type="department" key="dep2">School of Science</orgName>
+								<orgName type="institution">King Mongkut&apos;s Institute of Technology Ladkrabang</orgName>
+								<address>
+									<postCode>10520</postCode>
+									<settlement>Bangkok</settlement>
+									<country>Thailand;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Science</orgName>
+								<orgName type="laboratory">Advanced Pure and Applied Chemistry Research Unit (APAC)</orgName>
+								<orgName type="institution">King Mongkut&apos;s Institute of Technology Ladkrabang</orgName>
+								<address>
+									<postCode>10520</postCode>
+									<settlement>Bangkok</settlement>
+									<country key="TH">Thailand</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Laksakarn</forename><surname>Songpao</surname></persName>
+							<idno type="ORCID">0009-0002-3518-8632</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Chemistry</orgName>
+								<orgName type="department" key="dep2">School of Science</orgName>
+								<orgName type="institution">King Mongkut&apos;s Institute of Technology Ladkrabang</orgName>
+								<address>
+									<postCode>10520</postCode>
+									<settlement>Bangkok</settlement>
+									<country>Thailand;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Science</orgName>
+								<orgName type="laboratory">Advanced Pure and Applied Chemistry Research Unit (APAC)</orgName>
+								<orgName type="institution">King Mongkut&apos;s Institute of Technology Ladkrabang</orgName>
+								<address>
+									<postCode>10520</postCode>
+									<settlement>Bangkok</settlement>
+									<country key="TH">Thailand</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Nawasit</forename><surname>Chotsaeng</surname></persName>
+							<email>nawasit.ch@kmitl.ac.th</email>
+							<idno type="ORCID">0000-0001-5349-1155</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Chemistry</orgName>
+								<orgName type="department" key="dep2">School of Science</orgName>
+								<orgName type="institution">King Mongkut&apos;s Institute of Technology Ladkrabang</orgName>
+								<address>
+									<postCode>10520</postCode>
+									<settlement>Bangkok</settlement>
+									<country>Thailand;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Science</orgName>
+								<orgName type="laboratory">Advanced Pure and Applied Chemistry Research Unit (APAC)</orgName>
+								<orgName type="institution">King Mongkut&apos;s Institute of Technology Ladkrabang</orgName>
+								<address>
+									<postCode>10520</postCode>
+									<settlement>Bangkok</settlement>
+									<country key="TH">Thailand</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Allyl Syringate</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Molbank</title>
+						<title level="j" type="abbrev">Molbank</title>
+						<idno type="eISSN">1422-8599</idno>
+						<imprint>
+							<publisher>MDPI AG</publisher>
+							<biblScope unit="volume">2025</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page">M2060</biblScope>
+							<date type="published" when="2025-09-15">15 September 2025</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">156D728733AB1CE865997538377AEACB</idno>
+					<idno type="DOI">10.3390/m2060</idno>
+					<note type="submission">Received: 1 September 2025 Accepted: 12 September 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.9.1" ident="GROBID" when="2026-10-08T11:46+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0.9.1</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=1, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null, debugLabelingCollector=disabled</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>allylation</term>
+					<term>syringic acid</term>
+					<term>allyl bromide</term>
+					<term>allyl syringate</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Syringic acid (1) is a naturally occurring compound with diverse biological activities. Structural modification of syringic acid often enhances its utility; however, the spectroscopic data for several derivatives remain unreported, and the procedures to obtain them can be synthetically challenging. In this study, we report the allylation of syringic acid (1) to afford a novel derivative, allyl syringate (1c). The structure of this compound was confirmed by IR, NMR, and MS spectroscopy and compared with those of closely related derivatives (1a and 1b). These findings provide a useful foundation for further studies on the allylation of syringic acid and related phenolic acid derivatives.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Syringic acid (1), or 4-hydroxy-3,5-dimethoxybenzoic acid (Figure <ref type="figure" target="#fig_0">1</ref>), is a naturally occurring phenolic compound present in a variety of edible plants and fruits <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>. It exhibits diverse biological activities, which are attributed to key functional groups-namely hydroxyl (OH), methoxy (OMe), and carboxylic acid (COOH)-attached to the aromatic ring <ref type="bibr" target="#b2">[3]</ref>. Numerous studies have shown that derivatization of syringic acid and its analogues often yields compounds with enhanced biological activity, thereby facilitating broader investigation of their pharmacological properties <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref>. However, access to such derivatives is often restricted by the synthetic challenges involved, which remain a major obstacle in the development of new bioactive molecules <ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref>. Allylated compounds, which are derivatives formed by introducing an allyl group into a molecule, have recently emerged as a major focus of scientific research owing to their versatility in organic synthesis and potential for diverse applications <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref>. Their distinctive reactivity-particularly their capacity to undergo various allylic alkylation reactions-renders them valuable building blocks for the construction of complex molecules, including natural products and pharmaceuticals.</p><p>In general, allyl groups can be introduced into organic molecules through various strategies, including allylic substitution reactions, allylation with organometallic reagents, and C-H activation <ref type="bibr" target="#b14">[15,</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref>. These approaches exploit the unique reactivity of the allyl moiety, enabling diverse transformations and the construction of complex molecular architectures. Although numerous methods for the allylation of organic compounds have been developed, several limitations remain in achieving efficient and highly selective reactions. Common challenges include restricted substrate scope, difficulties in controlling stereochemistry, and practical constraints in large-scale applications <ref type="bibr" target="#b23">[24,</ref><ref type="bibr" target="#b24">25]</ref>. Another key limitation in chemical synthesis, particularly in certain countries, is the limited availability of specific reagents <ref type="bibr" target="#b10">[11,</ref><ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b26">27]</ref>. This can hinder the development of new molecules and the evaluation of their properties, ultimately slowing research and innovation across multiple fields. Reactions involving complex starting materials that contain multiple functional groups further increase the likelihood of undesired side reactions <ref type="bibr" target="#b27">[28,</ref><ref type="bibr" target="#b28">29]</ref>. Selective modification of a single functional group can be challenging and minimizing byproduct formation remains a critical objective. Additionally, some allylation protocols rely on toxic reagents or harsh conditions, raising environmental concerns and restricting their broader applicability <ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref>. Thus, reducing reagent toxicity and employing milder reaction conditions are essential principles in advancing sustainable synthetic methodologies <ref type="bibr" target="#b32">[33]</ref>.</p><p>In the allylation of syringic acid (1), two allylated derivatives (1a-1b) have previously been prepared in reasonable yields using conventional procedures <ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref><ref type="bibr" target="#b36">[37]</ref>. However, allyl syringate (1c) has not yet been reported (Scheme <ref type="figure" target="#fig_0">1</ref>). Herein, we describe the O-allylation of syringic acid (1) using a practical and convenient method. Because allyl alcohol is not readily available in Thailand, allyl bromide-a commonly accessible reagent-was employed as the allylating agent. The O-benzoate group was successfully allylated, affording the novel derivative, allyl syringate (1c), in high yield. The structure of this compound was confirmed by spectroscopic characterization and comparison with the known derivatives (1a-1b). These findings provide useful information for future studies on the allylation of syringic acid (1) and structurally related phenolic acid derivatives. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Results and Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">The Synthesis of Allyl Syringate (1c) and Related Derivatives (1a-1b)</head><p>Syringic acid (1) contains two reactive hydroxyl groups; therefore, three allylated products can potentially be obtained: allyl syringate 4-allyl ether (1a), syringic acid 4-allyl ether (1b), and allyl syringate (1c), as mentioned earlier (Scheme <ref type="figure" target="#fig_0">1</ref>). Our work focused on the synthesis of allyl syringate (1c) using a commonly reported base-promoted allylation procedure <ref type="bibr" target="#b37">[38]</ref>. Allyl bromide was chosen as the allylating agent because it is commercially available and compatible with mild base conditions, although it is not considered a "green" reagent for ideal synthesis. A mixture of syringic acid (1) (1 equiv.), potassium carbonate (1 equiv.), and allyl bromide (1 equiv.) in anhydrous DMF was stirred at room temperature. After stirring the reaction for 24 h, monitored the progress of the reaction by TLC, and then purification by column chromatography, allyl syringate (1c) was afforded in 97% yield (Scheme <ref type="figure" target="#fig_2">2</ref>). As mentioned above, O-allylation of syringic acid (1) can afford three possible derivatives (1a-1c). To enable their unambiguous differentiation, all three compounds were synthesized, and their distinct spectroscopic characteristics were obtained. Allyl syringate 4-allyl ether (1a) was successfully prepared in excellent yield by a slight modification of a previously reported procedure <ref type="bibr" target="#b36">[37]</ref>. Specifically, a mixture of syringic acid (1, 1 equiv.), cesium carbonate (Cs 2 CO 3 , 3 equiv.), and allyl bromide (4 equiv.) in anhydrous DMF was stirred at room temperature for 16 h. Subsequent purification by column chromatography afforded compound 1a in 98% yield (Scheme <ref type="figure" target="#fig_3">3</ref>). In the case of syringic acid 4-allyl ether (1b), the compound was obtained in high yield by a slight modification of a previously reported two-step procedure <ref type="bibr" target="#b36">[37,</ref><ref type="bibr" target="#b38">39]</ref>. The one-pot sequence consisted of double allylation followed by hydrolysis of the allyl ester. Thus, a mixture of syringic acid (1, 1 equiv.), cesium carbonate (Cs 2 CO 3 , 3 equiv.), and allyl bromide (4 equiv.) in anhydrous DMF was stirred at room temperature for 16 h to afford crude allyl syringate 4-allyl ether (1a). Subsequent hydrolysis of the allyl ester group at 60 • C in a 1,4-dioxane/water (8:2) mixture furnished crude 1b. Purification by column chromatography gave syringic acid 4-allyl ether (1b) in 97% yield (Scheme <ref type="figure" target="#fig_4">4</ref>). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Characterization of the Allylated Compounds (1a-1c)</head><p>In this study, the structure of the novel compound allyl syringate (1c) was confirmed and characterized using spectroscopic techniques, including IR, NMR, and MS, and the results were compared with those of the related derivatives (1a-1b) <ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref><ref type="bibr" target="#b36">[37]</ref>. In the IR spectrum (see Supporting Information), allyl syringate (1c) exhibited a broad absorption band at 3408 cm -1 , corresponding to the O-H stretching of the phenolic group, and a strong peak at 1707 cm -1 , attributed to the C=O stretching of the ester. For syringic acid 4-allyl ether (1b), similar peaks were observed, together with an additional broad absorption band in the range of 3250-2750 cm -1 , corresponding to the O-H stretching of the carboxyl group, and a strong peak at 1682 cm -1 , assigned to the C=O stretching of the carboxylic acid group. In contrast, allyl syringate 4-allyl ether (1a) showed no absorption attributable to O-H stretching. Its major characteristic peak was the ester C=O stretching band, appearing at 1715 cm -1 .</p><p>In the 1 H and 13 C NMR spectra, allyl syringate (1c) exhibited signals in both the aromatic region and the methoxy (OMe) substituents comparable to those observed for compounds 1a and 1b (Figure <ref type="figure" target="#fig_2">2</ref>). In the 13 C NMR spectra, compounds 1a and 1c, both containing an ester functional group, showed characteristic carbonyl signals at 165.9 and 166.0 ppm, respectively, whereas compound 1b, bearing a carboxylic acid group, displayed its carbonyl signal further downfield at 171.4 ppm. A comparison of the 1 H NMR spectra of 1b and 1c revealed a distinct difference in the chemical shift of the allylic methylene group: in 1b, the signal appeared at 4.62 ppm, while in 1c the corresponding allylic ether methylene signal was less shielded, appearing at 4.81 ppm (Figure <ref type="figure" target="#fig_2">2B</ref>,<ref type="figure">C</ref>). For allyl syringate 4-allyl ether (1a), which contains both an allyl ester and an allyl ether functionality, the 1 H NMR spectrum displayed a combination of the characteristic signals of 1b and 1c (Figure <ref type="figure" target="#fig_2">2A</ref>). Specifically, the methylene protons of the allyl groups in 1c resonated at 4.58 and 4.81 ppm, respectively. In the mass spectrometry (MS) analysis (see Supporting Information), all three compounds (1a-1c) exhibited molecular ion peaks in good agreement with their calculated molecular weights, thereby supporting the proposed molecular structures</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Chemicals and Instruments</head><p>Syringic acid (1) and anhydrous dimethyl formamide were purchased from Sigma-Aldrich (St. Louis, MO, USA). Allyl bromide was obtained from and Tokyo Chemical Industry (TCI, Tokyo, Japan). Melting points were determined using a Gallenkamp melting point apparatus (Loughborough, UK), and infrared (IR) spectra were recorded on a PerkinElmer 8900 spectrometer (Shelton, CT, USA) at the Department of Chemistry, School of Science, KMITL. 1 H and 13 C NMR spectra were acquired on a JEOL JNM-ECZ-500R/S1 (500 MHz) spectrometer (Tokyo, Japan) at the Scientific Instruments Centre, School of Science, KMITL, with residual protonated chloroform (CDCl 3 , δ 7.26 ppm for 1 H NMR and δ 77.00 ppm for 13 C NMR) as internal standards. High-resolution mass spectra (HRMS) were measured using an Agilent 1260 Infinity Series instrument (Waldbronn, Germany) at the Faculty of Science, Naresuan University.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Synthesis of 4-(Allyloxy)-3,5-dimethoxybenzoate or Allyl Syringate 4-Allyl Ether (1a)</head><p>In a Schlenk tube, syringic acid (1) (59.5 mg, 0.30 mmol), allyl bromide (145.2 mg, 1.20 mmol), and cesium carbonate (293.2 mg, 0.90 mmol) were combined, and anhydrous dimethylformamide (3 mL) was added. The reaction mixture was stirred at room temperature for 16 h. Upon completion, water (30 mL) was added, and the mixture was extracted with dichloromethane (3 × 15 mL). The combined organic layers were concentrated under reduced pressure, and the crude product was purified by flash column chromatography to afford the corresponding pure product as a colorless oil (98%). R f = 0.83 (30% EtOAc/hexane); IR (film) 2940, 1715 (C=O), 1589, 1499, 1460, 1414, 1331, 1213, 1182, 1124, 986, 928 cm -1 ; 1 H NMR (500 MHz, CDCl 3 ) δ 7.31 (2H, s, ArH), 6.12-5.98 (2H, m, OCH 2 CH=CH 2 ), 5.40 (1H, d, J = 13.8 Hz, COOCH 2 CH=CH 2 ), 5.32-5.27 (2H, m, OCH 2 CH=CH 2 ), 5.18 (1H, d, J = 8.3 Hz, PhOCH 2 CH=CH 2 ), 4.81 (2H, d, J = 4.4 Hz, COOCH 2 CH=CH 2 ), 4.58 (2H, d, J = 4.9 Hz, PhOCH 2 CH=CH 2 ), 3.89 (6H, s, 2 × OCH 3 ). 13 C NMR (125.8 MHz, CDCl 3 ) δ 165.9, 153.1, 140.8, 134.0, 132.2, 125.1, 118.3, 118.2, 106.7, 74.1, 65.7, 56.2 (2 × CH 3 ). HRMS (ESI) Exact mass calcd for C 15 H 19 O 5 [M + H] + : 279.1233, found 279.1232. The obtained spectroscopic data were consistent with reported literature values, further confirming the proposed structure <ref type="bibr" target="#b34">[35,</ref><ref type="bibr" target="#b35">36]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Synthesis of 4-(Allyloxy)-3,5-dimethoxybenzoic Acid or Syringic Acid 4-Allyl Ether (1b)</head><p>In a Schlenk tube, syringic acid (1) (59.5 mg, 0.30 mmol), allyl bromide (145.2 mg, 1.20 mmol), and cesium carbonate (293.2 mg, 0.90 mmol) were combined, and anhydrous dimethylformamide (3 mL) was added. The reaction mixture was stirred at room temperature for 16 h. After complete conversion of syringic acid (1) to compound 1a, as confirmed by TLC, sodium hydroxide (24 mg, 0.60 mmol), 1,4-dioxane (0.8 mL), and water (0.2 mL) were added, and the mixture was refluxed at 60 • C for 30 min. Upon completion, the pH was adjusted to neutral with 1 N HCl, water (30 mL) was added, and the mixture was extracted with dichloromethane (3 × 15 mL). The combined organic layers were concentrated under reduced pressure, and the crude product was purified by flash column chromatography to afford the pure product as a white solid (97%). m.p. 109-110 • C; R f = 0.23 (30% EtOAc/hexane); IR (film) 3250-2750 (br, OH), 2941, 1682 (C=O), 1587, 1462, 1454, 1416, 1333, 1229, 1128, 984, 768 cm -1 ; 1 H NMR (500 MHz, CDCl 3 ) δ 7.37 (2H, s, ArH), 6.09 (1H, ddt, J = 13.2, 8.3, 4.9 Hz, OCH 2 CH=CH 2 ), 5.32 (1H, d, J = 13.8 Hz, OCH 2 CH=CH 2 ), 5.20 (1H, d, J = 8.3 Hz, OCH 2 CH=CH 2 ), 4.62 (2H, d, J = 4.9 Hz, OCH 2 CH=CH 2 ), 3.91 (6H, s, 2 × OCH 3 ). 13 C NMR (125.8 MHz, CDCl 3 ) δ 171.4, 153.2, 141.6, 134.0, 124.1, 118.3, 107.4, 56.2 (2 × CH 3 ). Exact mass calcd for C 12 H 15 O 5 [M + H] + : 239.0920, found 239.0922. The obtained spectroscopic data were consistent with reported literature values, further confirming the proposed structure <ref type="bibr" target="#b36">[37]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Synthesis of Allyl Syringate (1c)</head><p>In a Schlenk tube, syringic acid (1) (59.5 mg, 0.30 mmol), allyl bromide (36.3 mg, 0.30 mmol), and potassium carbonate (41.5 mg, 0.30 mmol) were combined, and anhydrous dimethylformamide (3 mL) was added. The reaction mixture was stirred at room temperature for 24 h. Upon completion, water (30 mL) was added, and the mixture was extracted with dichloromethane (3 × 15 mL). The combined organic layers were concentrated under reduced pressure, and the crude product was purified by flash column chromatography to afford the corresponding pure product as a colorless oil (97%). R f = 0.51 (30% EtOAc/hexane); IR (film) 3408 (brs, OH), 2938, 1707 (C=O), 1611, 1514, 1460, 1423, 1364, 1331, 1275, 1209, 1184, 1111, 988, 764 cm -1 ; 1 H NMR (500 MHz, CDCl 3 ) δ 7.34 (2H, s, ArH), 6.05 (1H, ddd, J = 17.9, 8.3, 4.5 Hz, OCH 2 CH=CH 2 ), 5.92 (1H, brs, OH), 5.40 (1H, d, J = 13.7 Hz, OCH 2 CH=CH 2 ), 5.29 (1H, d, J = 8.3 Hz, OCH 2 CH=CH 2 ), 4.81 (2H, d, J = 4.5 Hz, OCH 2 CH=CH 2 ), 3.94 (6H, s, 2 × OCH 3 ). 13 C NMR (125.8 MHz, CDCl 3 ) δ 166.0, 146.6, 139.3, 132.4, 121.1, 118.2, 106.7, 65.6, 56.4 (2 × CH 3 ). HRMS (ESI) Exact mass calcd for C 12 H 15 O 5 [M + H] + : 239.0920, found 239.0919.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p>In this study, we report, for the first time, the O-allylation of syringic acid (1), affording the novel compound allyl syringate (1c) via a practical and convenient procedure. Since allyl alcohol is not readily available in Thailand, allyl bromide-a widely accessible reagent-was employed as the allylating agent. The spectroscopic characterization (IR, NMR, and MS) has been discussed in detail and compared with the known derivatives (1a-1b). These findings provide a solid foundation for future studies on the allylation and alkylation of syringic acid and structurally related phenolic acid analogues.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Chemical structure of syringic acid (1).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Scheme 1 .</head><label>1</label><figDesc>Scheme 1. Possible O-allylation products of syringic acid (1).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Scheme 2 .</head><label>2</label><figDesc>Scheme 2. Synthesis of allyl syringate (1c) from syringic acid (1).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Scheme 3 .</head><label>3</label><figDesc>Scheme 3. Synthesis of allyl syringate 4-allyl ether (1a) from syringic acid (1).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Scheme 4 .</head><label>4</label><figDesc>Scheme 4. Synthesis of syringic acid 4-allyl ether (1b) from syringic acid (1).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 2 . 1 H</head><label>21</label><figDesc>Figure 2. 1 H NMR Spectra of compounds 1a (A), 1b (B), and 1c (C).</figDesc><graphic coords="4,72.09,370.50,445.20,317.52" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments:</head><p>The authors gratefully acknowledge the <rs type="institution">Department of Chemistry, School of Science, KMITL</rs>, for providing laboratory facilities, and the <rs type="institution">Scientific Instruments Center, KMITL</rs>, for their assistance with NMR spectroscopy.</p></div>
+			</div>
+			<div type="funding">
+<div><p>Funding: This research was funded by <rs type="funder">King Mongkut's Institute of Technology Ladkrabang (KMITL)</rs> and the <rs type="funder">National Science, Research and Innovation Fund (NSRF)</rs> (Grant No. <rs type="grantNumber">RE-KRIS/FF68/43</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_EejsGnt">
+					<idno type="grant-number">RE-KRIS/FF68/43</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Availability Statement:</head><p>The data supporting the findings of this study are provided in the Supplementary File.</p></div>
+			</div>
+
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of Interest:</head><p>The authors declare no conflicts of interest.</p></div>
+			</div>
+
+
+			<div type="contribution">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author Contributions: Conceptualization, supervision, project administration, funding acquisition, writing-original draft preparation, and writing-review and editing, N.C.; methodology, software, validation, formal analysis, investigation, resources, data curation, and visualization, N.T., S.P., L.S. and N.C. All authors have read and agreed to the published version of the manuscript.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Supplementary Materials: Figure <ref type="figure">S1</ref>: 1H and 13C NMR spectra of allyl 4-(allyloxy)-3,5dimethoxybenzoate 1a; Figure <ref type="figure">S2</ref>: IR and HR-MS spectra of 4-(allyloxy)-3,5-dimethoxybenzoate 1a; Figure <ref type="figure">S3</ref>: 1H and 13C NMR spectra of 4-(allyloxy)-3,5-dimethoxybenzoic acid 1b; Figure <ref type="figure">S4</ref>: IR and HR-MS spectra of 4-(allyloxy)-3,5-dimethoxybenzoic acid 1b; Figure <ref type="figure">S5</ref>: 1H and 13C NMR spectra of allyl syringate 1c; Figure <ref type="figure">S6</ref>: IR and HR-MS spectra of allyl syringate 1c.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Abbreviations</head><p>The following abbreviations are used in this manuscript:</p><p>rt Room temperature equiv. Equivalent h Hour min Minute N Normal</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Epigenetic regulation of bone remodeling by natural compounds</title>
+		<author>
+			<persName><forename type="first">Nishikant</forename><surname>Raut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sheila</forename><forename type="middle">M</forename><surname>Wicks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tempitope</forename><forename type="middle">O</forename><surname>Lawal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gail</forename><forename type="middle">B</forename><surname>Mahady</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.phrs.2019.104350</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacological Research</title>
+		<title level="j" type="abbrev">Pharmacological Research</title>
+		<idno type="ISSN">1043-6618</idno>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="page">104350</biblScope>
+			<date type="published" when="2019-09">2019</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Syringic acid (SA) ‒ A Review of Its Occurrence, Biosynthesis, Pharmacological and Industrial Importance</title>
+		<author>
+			<persName><forename type="first">Cheemanapalli</forename><surname>Srinivasulu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mopuri</forename><surname>Ramgopal</surname></persName>
+			<idno type="ORCID">0000-0002-8666-657X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Golla</forename><surname>Ramanjaneyulu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Anuradha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chitta</forename><surname>Suresh Kumar</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.biopha.2018.09.069</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biomedicine &amp; Pharmacotherapy</title>
+		<title level="j" type="abbrev">Biomedicine &amp; Pharmacotherapy</title>
+		<idno type="ISSN">0753-3322</idno>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="547" to="557" />
+			<date type="published" when="2018-12">2018</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Syringic acid affords antioxidant protection in the pancreas of type 2 diabetic rats</title>
+		<author>
+			<persName><forename type="first">Sahari</forename><surname>Shimsa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Neelakanta</forename><forename type="middle">Pillai Padmakumari</forename><surname>Soumya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sukanta</forename><surname>Mondal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Saraswathy</forename><surname>Mini</surname></persName>
+		</author>
+		<idno type="DOI">10.31989/bchd.v6i2.1061</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bioactive Compounds in Health and Disease</title>
+		<title level="j" type="abbrev">BCHD</title>
+		<idno type="ISSN">2769-2426</idno>
+		<idno type="ISSNe">2574-0334</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">13</biblScope>
+			<date type="published" when="2024">2024</date>
+			<publisher>Functional Food Center</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Synthesis and antioxidant activity evaluation of a syringic hydrazones family</title>
+		<author>
+			<persName><forename type="first">Nadji</forename><surname>Belkheiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benaissa</forename><surname>Bouguerne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Florence</forename><surname>Bedos-Belval</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hubert</forename><surname>Duran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Corinne</forename><surname>Bernis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Salvayre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anne</forename><surname>Nègre-Salvayre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Baltas</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ejmech.2010.03.031</idno>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Medicinal Chemistry</title>
+		<title level="j" type="abbrev">European Journal of Medicinal Chemistry</title>
+		<idno type="ISSN">0223-5234</idno>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="3019" to="3026" />
+			<date type="published" when="2010-07">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">&lt;i&gt;O&lt;/i&gt; -Alkyl derivatives of ferulic and syringic acid as lipophilic antioxidants: effect of the length of the alkyl chain on the improvement of the thermo-oxidative stability of sunflower oil</title>
+		<author>
+			<persName><forename type="first">Oscar</forename><surname>Forero-Doria</surname></persName>
+			<idno type="ORCID">0000-0002-6770-5406</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Luis</forename><surname>Guzmán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Whitney</forename><surname>Venturini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Felipe</forename><surname>Zapata-Gomez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yorley</forename><surname>Duarte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lorena</forename><surname>Camargo-Ayala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cesar</forename><surname>Echeverría</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Javier</forename><surname>Echeverría</surname></persName>
+			<idno type="ORCID">0000-0002-1688-968X</idno>
+		</author>
+		<idno type="DOI">10.1039/d4ra01638f</idno>
+	</analytic>
+	<monogr>
+		<title level="j">RSC Advances</title>
+		<title level="j" type="abbrev">RSC Adv.</title>
+		<idno type="ISSNe">2046-2069</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">31</biblScope>
+			<biblScope unit="page" from="22513" to="22524" />
+			<date type="published" when="2024">2024</date>
+			<publisher>Royal Society of Chemistry (RSC)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Computational Analysis and Synthesis of Syringic Acid Derivatives as Xanthine Oxidase Inhibitors</title>
+		<author>
+			<persName><forename type="first">Neelam</forename><surname>Malik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anurag</forename><surname>Khatkar</surname></persName>
+			<idno type="ORCID">0000-0002-0856-3620</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Priyanka</forename><surname>Dhiman</surname></persName>
+		</author>
+		<idno type="DOI">10.2174/1573406415666191004134346</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Medicinal Chemistry</title>
+		<title level="j" type="abbrev">MC</title>
+		<idno type="ISSN">1573-4064</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="643" to="653" />
+			<date type="published" when="2020-08-07">2020</date>
+			<publisher>Bentham Science Publishers Ltd.</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Selective growth inhibition of human malignant melanoma cells by syringic acid-derived proteasome inhibitors</title>
+		<author>
+			<persName><forename type="first">Khaled</forename><forename type="middle">Y</forename><surname>Orabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mohamed</forename><forename type="middle">S</forename><surname>Abaza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Khalid</forename><forename type="middle">A</forename><surname>El Sayed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ahmed</forename><forename type="middle">Y</forename><surname>Elnagar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rajaa</forename><surname>Al-Attiyah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Radhika</forename><forename type="middle">P</forename><surname>Guleri</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1475-2867-13-82</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Cell International</title>
+		<title level="j" type="abbrev">Cancer Cell Int</title>
+		<idno type="ISSN">1475-2867</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">82</biblScope>
+			<date type="published" when="2013">2013</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Discovery and resupply of pharmacologically active plant-derived natural products: A review</title>
+		<author>
+			<persName><forename type="first">Atanas</forename><forename type="middle">G</forename><surname>Atanasov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Birgit</forename><surname>Waltenberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eva-Maria</forename><surname>Pferschy-Wenzig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Linder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christoph</forename><surname>Wawrosch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pavel</forename><surname>Uhrin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Veronika</forename><surname>Temml</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Limei</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Schwaiger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elke</forename><forename type="middle">H</forename><surname>Heiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Judith</forename><forename type="middle">M</forename><surname>Rollinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniela</forename><surname>Schuster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johannes</forename><forename type="middle">M</forename><surname>Breuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Valery</forename><surname>Bochkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marko</forename><forename type="middle">D</forename><surname>Mihovilovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brigitte</forename><surname>Kopp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rudolf</forename><surname>Bauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Verena</forename><forename type="middle">M</forename><surname>Dirsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hermann</forename><surname>Stuppner</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.biotechadv.2015.08.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biotechnology Advances</title>
+		<title level="j" type="abbrev">Biotechnology Advances</title>
+		<idno type="ISSN">0734-9750</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1582" to="1614" />
+			<date type="published" when="2015-12">2015</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Natural products in drug discovery: advances and opportunities</title>
+		<author>
+			<persName><forename type="first">Atanas</forename><forename type="middle">G</forename><surname>Atanasov</surname></persName>
+			<idno type="ORCID">0000-0003-2545-0967</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Sergey</forename><forename type="middle">B</forename><surname>Zotchev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Verena</forename><forename type="middle">M</forename><surname>Dirsch</surname></persName>
+			<idno type="ORCID">0000-0002-9261-5293</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Ilkay</forename><forename type="middle">Erdogan</forename><surname>Orhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maciej</forename><surname>Banach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Judith</forename><forename type="middle">M</forename><surname>Rollinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Davide</forename><surname>Barreca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wolfram</forename><surname>Weckwerth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rudolf</forename><surname>Bauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Muhammed</forename><surname>Majeed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anupam</forename><surname>Bishayee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Valery</forename><surname>Bochkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Günther</forename><forename type="middle">K</forename><surname>Bonn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nady</forename><surname>Braidy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Franz</forename><surname>Bucar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alejandro</forename><surname>Cifuentes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Grazia</forename><surname>D’onofrio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Bodkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marc</forename><surname>Diederich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Albena</forename><forename type="middle">T</forename><surname>Dinkova-Kostova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Efferth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Khalid</forename><surname>El Bairi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicolas</forename><surname>Arkells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tai-Ping</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bernd</forename><forename type="middle">L</forename><surname>Fiebich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Freissmuth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Milen</forename><forename type="middle">I</forename><surname>Georgiev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>Gibbons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Keith</forename><forename type="middle">M</forename><surname>Godfrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christian</forename><forename type="middle">W</forename><surname>Gruber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jag</forename><surname>Heer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lukas</forename><forename type="middle">A</forename><surname>Huber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elena</forename><surname>Ibanez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anake</forename><surname>Kijjoa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anna</forename><forename type="middle">K</forename><surname>Kiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aiping</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francisco</forename><forename type="middle">A</forename><surname>Macias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">J S</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrei</forename><surname>Mocan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rolf</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ferdinando</forename><surname>Nicoletti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">George</forename><surname>Perry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Valeria</forename><surname>Pittalà</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luca</forename><surname>Rastrelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Ristow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gian</forename><forename type="middle">Luigi</forename><surname>Russo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ana</forename><forename type="middle">Sanches</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniela</forename><surname>Schuster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Helen</forename><surname>Sheridan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Krystyna</forename><surname>Skalicka-Woźniak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Leandros</forename><surname>Skaltsounis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eduardo</forename><surname>Sobarzo-Sánchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">S</forename><surname>Bredt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hermann</forename><surname>Stuppner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Antoni</forename><surname>Sureda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nikolay</forename><forename type="middle">T</forename><surname>Tzvetkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rosa</forename><forename type="middle">Anna</forename><surname>Vacca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bharat</forename><forename type="middle">B</forename><surname>Aggarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maurizio</forename><surname>Battino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francesca</forename><surname>Giampieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Wink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jean-Luc</forename><surname>Wolfender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jianbo</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andy</forename><forename type="middle">Wai Kan</forename><surname>Yeung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gérard</forename><surname>Lizard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">A</forename><surname>Popp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Heinrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ioana</forename><surname>Berindan-Neagoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marc</forename><surname>Stadler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><surname>Daglia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Verpoorte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claudiu</forename><forename type="middle">T</forename><surname>Supuran</surname></persName>
+			<idno type="ORCID">0000-0003-4262-0323</idno>
+		</author>
+		<idno type="DOI">10.1038/s41573-020-00114-z</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reviews Drug Discovery</title>
+		<title level="j" type="abbrev">Nat Rev Drug Discov</title>
+		<idno type="ISSN">1474-1776</idno>
+		<idno type="ISSNe">1474-1784</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="200" to="216" />
+			<date type="published" when="2021-01-28">2021</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Organic synthesis provides opportunities to transform drug discovery</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">C</forename><surname>Blakemore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luis</forename><surname>Castro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Churcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">C</forename><surname>Rees</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">W</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">M</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><surname>Wood</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41557-018-0021-z</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Chemistry</title>
+		<title level="j" type="abbrev">Nature Chem</title>
+		<idno type="ISSN">1755-4330</idno>
+		<idno type="ISSNe">1755-4349</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="383" to="394" />
+			<date type="published" when="2018-03-22">2018</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">What enables and blocks synthetic chemistry methods in becoming industrially significant?</title>
+		<author>
+			<persName><forename type="first">Hans-Jürgen</forename><forename type="middle">J</forename><surname>Federsel</surname></persName>
+			<idno type="ORCID">0000-0001-5781-1689</idno>
+		</author>
+		<idno type="DOI">10.1016/j.xcrp.2023.101493</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Reports Physical Science</title>
+		<title level="j" type="abbrev">Cell Reports Physical Science</title>
+		<idno type="ISSN">2666-3864</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">101493</biblScope>
+			<date type="published" when="2023-07">2023</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Applications of Keck allylation in the synthesis of natural products</title>
+		<author>
+			<persName><forename type="first">Tanzeela</forename><surname>Abdul Fattah</surname></persName>
+			<idno type="ORCID">0000-0001-9223-3191</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Aamer</forename><surname>Saeed</surname></persName>
+			<idno type="ORCID">0000-0002-7112-9296</idno>
+		</author>
+		<idno type="DOI">10.1039/c7nj02799k</idno>
+	</analytic>
+	<monogr>
+		<title level="j">New Journal of Chemistry</title>
+		<title level="j" type="abbrev">New J. Chem.</title>
+		<idno type="ISSN">1144-0546</idno>
+		<idno type="ISSNe">1369-9261</idno>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="14804" to="14821" />
+			<date type="published" when="2017">2017</date>
+			<publisher>Royal Society of Chemistry (RSC)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">From Natural Sources to Synthetic Derivatives: The Allyl Motif as a Powerful Tool for Fragment-Based Design in Cancer Treatment</title>
+		<author>
+			<persName><forename type="first">Nora</forename><surname>Astrain-Redin</surname></persName>
+			<idno type="ORCID">0000-0001-8593-8994</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Carmen</forename><surname>Sanmartin</surname></persName>
+			<idno type="ORCID">0000-0003-3431-7826</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Arun</forename><forename type="middle">K</forename><surname>Sharma</surname></persName>
+			<idno type="ORCID">0000-0002-7679-7779</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Plano</surname></persName>
+			<idno type="ORCID">0000-0002-8266-0445</idno>
+		</author>
+		<idno type="DOI">10.1021/acs.jmedchem.2c01406</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medicinal Chemistry</title>
+		<title level="j" type="abbrev">J. Med. Chem.</title>
+		<idno type="ISSN">0022-2623</idno>
+		<idno type="ISSNe">1520-4804</idno>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="3703" to="3731" />
+			<date type="published" when="2023-03-01">2023</date>
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Recent Advances in the Preparation and Application of Allylboron Species in Organic Synthesis</title>
+		<author>
+			<persName><forename type="first">Colin</forename><surname>Diner</surname></persName>
+			<idno type="ORCID">0000-0001-5883-0961</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Kálmán</forename><forename type="middle">J</forename><surname>Szabó</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jacs.6b10017</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Chemical Society</title>
+		<idno type="ISSN">0002-7863</idno>
+		<idno type="ISSNe">1520-5126</idno>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="2" to="14" />
+			<date type="published" when="2017">2017</date>
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Transition-metal-catalyzed C–H allylation reactions</title>
+		<author>
+			<persName><forename type="first">Subhabrata</forename><surname>Dutta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Trisha</forename><surname>Bhattacharya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">B</forename><surname>Werz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Debabrata</forename><surname>Maiti</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chempr.2020.10.020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Chem</title>
+		<title level="j" type="abbrev">Chem</title>
+		<idno type="ISSN">2451-9294</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="555" to="605" />
+			<date type="published" when="2021-03">2021</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Use of the Hosomi-Sakurai allylation in natural product total synthesis</title>
+		<author>
+			<persName><forename type="first">Jun</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tet.2020.131351</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron</title>
+		<title level="j" type="abbrev">Tetrahedron</title>
+		<idno type="ISSN">0040-4020</idno>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">33</biblScope>
+			<biblScope unit="page">131351</biblScope>
+			<date type="published" when="2020-08">2020</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Efficient Allylation of Dihalides: A Versatile Approach to C/N/O‐Functionalized Derivatives</title>
+		<author>
+			<persName><forename type="first">Mengdi</forename><surname>Pang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wentao</forename><surname>Hao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiulin</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chunyan</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ali</forename><surname>Morsali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ali</forename><surname>Ramazani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guoying</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/cjoc.70084</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Journal of Chemistry</title>
+		<title level="j" type="abbrev">Chin. J. Chem.</title>
+		<idno type="ISSN">1001-604X</idno>
+		<idno type="ISSNe">1614-7065</idno>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="2005" to="2014" />
+			<date type="published" when="2025-05-19">2025</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Recent development of allyl–allyl cross-coupling and its application in natural product synthesis</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ravichandiran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anupam</forename><surname>Jana</surname></persName>
+			<idno type="ORCID">0000-0002-0404-3513</idno>
+		</author>
+		<idno type="DOI">10.1039/d2qo01078j</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Organic Chemistry Frontiers</title>
+		<title level="j" type="abbrev">Org. Chem. Front.</title>
+		<idno type="ISSNe">2052-4129</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="267" to="281" />
+			<date type="published" when="2023">2023</date>
+			<publisher>Royal Society of Chemistry (RSC)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Progress on transition metal-catalyzed allylation of activated vinylcyclopropanes</title>
+		<author>
+			<persName><forename type="first">Qingle</forename><surname>Zeng</surname></persName>
+			<idno type="ORCID">0000-0003-0750-540X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Xianjie</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yiding</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tetlet.2023.154536</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron Letters</title>
+		<title level="j" type="abbrev">Tetrahedron Letters</title>
+		<idno type="ISSN">0040-4039</idno>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page">154536</biblScope>
+			<date type="published" when="2023-06">2023</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Allylation of aldehydes with various allylation agents</title>
+		<author>
+			<persName><forename type="first">Yavar</forename><surname>Ahmadi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.rechem.2024.101847</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Results in Chemistry</title>
+		<title level="j" type="abbrev">Results in Chemistry</title>
+		<idno type="ISSN">2211-7156</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">101847</biblScope>
+			<date type="published" when="2024-10">2024</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Transition metal-catalyzed allylic substitution reactions with unactivated allylic substrates</title>
+		<author>
+			<persName><forename type="first">Nicholas</forename><forename type="middle">A</forename><surname>Butt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wanbin</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/c5cs00144g</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Chemical Society Reviews</title>
+		<title level="j" type="abbrev">Chem. Soc. Rev.</title>
+		<idno type="ISSN">0306-0012</idno>
+		<idno type="ISSNe">1460-4744</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="7929" to="7967" />
+			<date type="published" when="2015">2015</date>
+			<publisher>Royal Society of Chemistry (RSC)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Nickel‐Catalyzed Allylic Substitution Reactions: An Evolving Alternative</title>
+		<author>
+			<persName><forename type="first">Debasish</forename><surname>Ghorai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Àlex</forename><surname>Cristòfol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arjan</forename><forename type="middle">W</forename><surname>Kleij</surname></persName>
+			<idno type="ORCID">0000-0002-7402-4764</idno>
+		</author>
+		<idno type="DOI">10.1002/ejic.202100820</idno>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Inorganic Chemistry</title>
+		<title level="j" type="abbrev">Eur J Inorg Chem</title>
+		<idno type="ISSN">1434-1948</idno>
+		<idno type="ISSNe">1099-0682</idno>
+		<imprint>
+			<biblScope unit="volume">2022</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">202100820</biblScope>
+			<date type="published" when="2022">2022. 2022</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Recent Advances in Enantioselective Pd-Catalyzed Allylic Substitution: From Design to Applications</title>
+		<author>
+			<persName><forename type="first">Oscar</forename><surname>Pàmies</surname></persName>
+			<idno type="ORCID">0000-0002-2352-8508</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jèssica</forename><surname>Margalef</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Santiago</forename><surname>Cañellas</surname></persName>
+			<idno type="ORCID">0000-0002-8700-4615</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jinju</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Judge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><forename type="middle">J</forename><surname>Guiry</surname></persName>
+			<idno type="ORCID">0000-0002-2612-8569</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Christina</forename><surname>Moberg</surname></persName>
+			<idno type="ORCID">0000-0002-1743-7650</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Null-</forename><forename type="middle">E</forename><surname>Bäckvall</surname></persName>
+			<idno type="ORCID">0000-0001-8462-4176</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Andreas</forename><surname>Pfaltz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miquel</forename><forename type="middle">A</forename><surname>Pericàs</surname></persName>
+			<idno type="ORCID">0000-0003-0195-8846</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Montserrat</forename><surname>Diéguez</surname></persName>
+			<idno type="ORCID">0000-0002-8450-0656</idno>
+		</author>
+		<idno type="DOI">10.1021/acs.chemrev.0c00736</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Chemical Reviews</title>
+		<title level="j" type="abbrev">Chem. Rev.</title>
+		<idno type="ISSN">0009-2665</idno>
+		<idno type="ISSNe">1520-6890</idno>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="4373" to="4505" />
+			<date type="published" when="2021-03-19">2021</date>
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Biocatalytic Alkylation Chemistry: Building Molecular Complexity with High Selectivity</title>
+		<author>
+			<persName><forename type="first">Felipe</forename><surname>Ospina</surname></persName>
+			<idno type="ORCID">0000-0002-6421-9365</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Kai</forename><forename type="middle">H</forename><surname>Schülke</surname></persName>
+			<idno type="ORCID">0000-0003-3486-5400</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Stephan</forename><forename type="middle">C</forename><surname>Hammer</surname></persName>
+			<idno type="ORCID">0000-0002-3620-9362</idno>
+		</author>
+		<idno type="DOI">10.1002/cplu.202100454</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ChemPlusChem</title>
+		<title level="j" type="abbrev">ChemPlusChem</title>
+		<idno type="ISSN">2192-6506</idno>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">202100454</biblScope>
+			<date type="published" when="2022">2022</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Copper-catalyzed asymmetric allylic substitution of racemic/ &lt;i&gt;meso&lt;/i&gt; substrates</title>
+		<author>
+			<persName><forename type="first">Jun</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Junrong</forename><surname>Huang</surname></persName>
+			<idno type="ORCID">0000-0001-8647-5418</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Yan</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yuexin</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yuxiang</forename><surname>Zhu</surname></persName>
+			<idno type="ORCID">0009-0004-1443-3453</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Hengzhi</forename><surname>You</surname></persName>
+			<idno type="ORCID">0000-0001-8904-5050</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Fen-Er</forename><surname>Chen</surname></persName>
+			<idno type="ORCID">0000-0002-6734-3388</idno>
+		</author>
+		<idno type="DOI">10.1039/d4sc02135e</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Chemical Science</title>
+		<title level="j" type="abbrev">Chem. Sci.</title>
+		<idno type="ISSN">2041-6520</idno>
+		<idno type="ISSNe">2041-6539</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="8280" to="8294" />
+			<date type="published" when="2024">2024</date>
+			<publisher>Royal Society of Chemistry (RSC)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The Significance of Synthetic Chemistry in Advancing Pharmaceutical Research and Development in Nigeria: A Call to Action</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Danraka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abdulmujeeb</surname></persName>
+		</author>
+		<idno type="DOI">10.51412/psnnjp.2023.36</idno>
+	</analytic>
+	<monogr>
+		<title level="j">THE NIGERIAN JOURNAL OF PHARMACY</title>
+		<title level="j" type="abbrev">PSNNJP</title>
+		<idno type="ISSN">0331-670X</idno>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="758" to="764" />
+			<date type="published" when="2023-10-10">2023</date>
+			<publisher>The Pharmaceutical Society of Nigeria</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Waste as a Source of Critical Raw Materials—A New Approach in the Context of Energy Transition</title>
+		<author>
+			<persName><forename type="first">Barbara</forename><surname>Bielowicz</surname></persName>
+			<idno type="ORCID">0000-0002-8742-5890</idno>
+		</author>
+		<idno type="DOI">10.3390/en18082101</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Energies</title>
+		<title level="j" type="abbrev">Energies</title>
+		<idno type="ISSNe">1996-1073</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">2101</biblScope>
+			<date type="published" when="2025-04-18">2025. 2101</date>
+			<publisher>MDPI AG</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Standardized Approach for Diversification of Complex Small Molecules via Aryl Thianthrenium Salts</title>
+		<author>
+			<persName><forename type="first">Dilgam</forename><surname>Ahmadli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sven</forename><surname>Müller</surname></persName>
+			<idno type="ORCID">0000-0001-8348-1214</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Yuanhao</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tomas</forename><surname>Smejkal</surname></persName>
+			<idno type="ORCID">0000-0001-9458-0963</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>Jaeckh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrei</forename><forename type="middle">V</forename><surname>Iosub</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simon</forename><forename type="middle">R</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tobias</forename><surname>Ritter</surname></persName>
+			<idno type="ORCID">0000-0002-6957-450X</idno>
+		</author>
+		<idno type="DOI">10.1021/jacs.4c14391</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Chemical Society</title>
+		<title level="j" type="abbrev">J. Am. Chem. Soc.</title>
+		<idno type="ISSN">0002-7863</idno>
+		<idno type="ISSNe">1520-5126</idno>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="4268" to="4283" />
+			<date type="published" when="2025-01-22">2025</date>
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Sustainable Approaches for the Protection and Deprotection of Functional Groups</title>
+		<author>
+			<persName><forename type="first">Ju</forename><forename type="middle">Ha</forename><surname>Jin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mina</forename><surname>An</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Minki</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jaejeong</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sung</forename><forename type="middle">Min</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Isaac</forename><surname>Choi</surname></persName>
+			<idno type="ORCID">0000-0002-9207-4845</idno>
+		</author>
+		<idno type="DOI">10.1002/chem.202501387</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Chemistry – A European Journal</title>
+		<title level="j" type="abbrev">Chemistry A European J</title>
+		<idno type="ISSN">0947-6539</idno>
+		<idno type="ISSNe">1521-3765</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">40</biblScope>
+			<biblScope unit="page">202501387</biblScope>
+			<date type="published" when="2025-06-27">2025</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Catalytic Enantioselective Allylation of Carbonyl Compounds and Imines</title>
+		<author>
+			<persName><forename type="first">Miguel</forename><surname>Yus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">José</forename><forename type="middle">C</forename><surname>González-Gómez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francisco</forename><surname>Foubelo</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/cr1004474</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Chemical Reviews</title>
+		<title level="j" type="abbrev">Chem. Rev.</title>
+		<idno type="ISSN">0009-2665</idno>
+		<idno type="ISSNe">1520-6890</idno>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="7774" to="7854" />
+			<date type="published" when="2011-09-16">2011</date>
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Recent advances of the Grignard-type reactions without involving organohalides</title>
+		<author>
+			<persName><forename type="first">Yu</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruizhi</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wenbo</forename><forename type="middle">H</forename><surname>Liu</surname></persName>
+			<idno type="ORCID">0000-0001-8442-2697</idno>
+		</author>
+		<idno type="DOI">10.1016/j.tchem.2024.100069</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron Chem</title>
+		<title level="j" type="abbrev">Tetrahedron Chem</title>
+		<idno type="ISSN">2666-951X</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">100069</biblScope>
+			<date type="published" when="2024-03">2024</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Oxazolinyl-Assisted Ru(II)-Catalyzed C–H Allylation with Allyl Alcohols and Synthesis of 4-Methyleneisochroman-1-ones</title>
+		<author>
+			<persName><forename type="first">Diksha</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gangam</forename><forename type="middle">Srikanth</forename><surname>Kumar</surname></persName>
+			<idno type="ORCID">0000-0002-6052-9913</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Manmohan</forename><surname>Kapur</surname></persName>
+			<idno type="ORCID">0000-0003-2592-6726</idno>
+		</author>
+		<idno type="DOI">10.1021/acs.joc.9b01536</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Organic Chemistry</title>
+		<title level="j" type="abbrev">J. Org. Chem.</title>
+		<idno type="ISSN">0022-3263</idno>
+		<idno type="ISSNe">1520-6904</idno>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<biblScope unit="page" from="12881" to="12892" />
+			<date type="published" when="2019-08-16">2019</date>
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Principles of green chemistry</title>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">T</forename><surname>Anastas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">C</forename><surname>Warner</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/oso/9780198506980.003.0004</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Green Chemistry</title>
+		<imprint>
+			<publisher>Oxford University PressOxford</publisher>
+			<date type="published" when="2000-05-25" />
+			<biblScope unit="page" from="29" to="56" />
+		</imprint>
+	</monogr>
+	<note>1st ed</note>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b33">
+	<analytic>
+		<title level="a" type="main">A New Convenient Synthetic Procedure for 4-Allyl-2,6-Dimethoxyphenol</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">I</forename><surname>Guoqing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">I</forename><surname>Zhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fang</forename><surname>Xiuhua</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00397919608004569</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Synthetic Communications</title>
+		<title level="j" type="abbrev">Synthetic Communications</title>
+		<idno type="ISSN">0039-7911</idno>
+		<idno type="ISSNe">1532-2432</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="2569" to="2572" />
+			<date type="published" when="1996-07">1996</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Total Synthesis of (±)-Sacidumlignan D</title>
+		<author>
+			<persName><forename type="first">Sunil</forename><forename type="middle">Kumar</forename><surname>Pandey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">V</forename><surname>Ramana</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jo1025749</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Organic Chemistry</title>
+		<title level="j" type="abbrev">J. Org. Chem.</title>
+		<idno type="ISSN">0022-3263</idno>
+		<idno type="ISSNe">1520-6904</idno>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="2315" to="2318" />
+			<date type="published" when="2011-03-09">2011</date>
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Quantitative Methylation of Lignin Monomers Using Tetrabutylammonium Hydroxide and MeI and Applications in Organic Synthesis</title>
+		<author>
+			<persName><forename type="first">Yajie</forename><surname>Zuo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Siying</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yi</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jingjing</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shiyi</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chongmin</forename><surname>Zhong</surname></persName>
+			<idno type="ORCID">0000-0003-0684-5269</idno>
+		</author>
+		<idno type="DOI">10.1021/acsomega.2c07920</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Omega</title>
+		<title level="j" type="abbrev">ACS Omega</title>
+		<idno type="ISSN">2470-1343</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="7057" to="7062" />
+			<date type="published" when="2023-02-10">2023</date>
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Strong cation exchange-type chiral stationary phase for enantioseparation of chiral amines in subcritical fluid chromatography</title>
+		<author>
+			<persName><forename type="first">Denise</forename><surname>Wolrab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michal</forename><surname>Kohout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mario</forename><surname>Boras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wolfgang</forename><surname>Lindner</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chroma.2013.03.018</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Chromatography A</title>
+		<title level="j" type="abbrev">Journal of Chromatography A</title>
+		<idno type="ISSN">0021-9673</idno>
+		<imprint>
+			<biblScope unit="volume">1289</biblScope>
+			<biblScope unit="page" from="94" to="104" />
+			<date type="published" when="2013-05">2013</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Synthesis and crystal structure of allyl 7-(diethylamino)-2-oxo-2&lt;i&gt;H&lt;/i&gt;-chromene-3-carboxylate</title>
+		<author>
+			<persName><forename type="first">Vanessa</forename><surname>Nowatschin</surname></persName>
+			<idno type="ORCID">0000-0002-1477-3843</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Christian</forename><surname>Näther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ulrich</forename><surname>Lüning</surname></persName>
+			<idno type="ORCID">0000-0001-9355-1597</idno>
+		</author>
+		<idno type="DOI">10.1107/s2056989021002218</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Crystallographica Section E Crystallographic Communications</title>
+		<title level="j" type="abbrev">Acta Crystallogr E Cryst Commun</title>
+		<idno type="ISSNe">2056-9890</idno>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="331" to="334" />
+			<date type="published" when="2021-03-02">2021</date>
+			<publisher>International Union of Crystallography (IUCr)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="consolidated" source="crossref" xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The effect of photoisomerization on the enzymatic hydrolysis of polymeric micelles bearing photo-responsive azobenzene groups at their cores</title>
+		<author>
+			<persName><forename type="first">Assaf</forename><forename type="middle">J</forename><surname>Harnoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gadi</forename><surname>Slor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Einat</forename><surname>Tirosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roey</forename><forename type="middle">J</forename><surname>Amir</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/c6ob00396f</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Org. Biomol. Chem.</title>
+		<title level="j" type="abbrev">Org. Biomol. Chem.</title>
+		<idno type="ISSN">1477-0520</idno>
+		<idno type="ISSNe">1477-0539</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="5813" to="5819" />
+			<date type="published" when="2016">2016</date>
+			<publisher>Royal Society of Chemistry (RSC)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b39">
+	<analytic>
+		<title level="a" type="main">editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content</title>
+	</analytic>
+	<monogr>
+		<title level="m">Disclaimer/Publisher&apos;s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

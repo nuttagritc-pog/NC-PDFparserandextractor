@@ -1,0 +1,13 @@
+# Ignore cloned GROBID repo
+grobid/
+
+# Python cache & virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/
